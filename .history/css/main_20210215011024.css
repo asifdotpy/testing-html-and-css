@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+
+li, a, button {
+    font-family: 'Reggae One', cursive;
+    font-weight: ;
+}
