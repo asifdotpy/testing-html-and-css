@@ -1,0 +1,19 @@
+* {
+    background-color: aqua;
+}
+
+div.a {
+    font-size: 60px;
+    margin: 10px 10px 20px;
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+}
+
+div.b {
+    font-size: 60px;
+    margin: 10px 10px 20px;
+    background-color: sienna;
+    text-align: center;
+    padding: 30;
+}
